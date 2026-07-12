@@ -1,0 +1,15 @@
+﻿series,label,fy16,fy17,fy18,fy19,fy20,fy21,fy22,fy23,fy24,fy25
+education,State Board of Education,6507,7211,8201,8376,8886,8873,9274,9756,10349,10807
+healthcare,Healthcare and Family Services,6090,5972,7601,7633,6743,7548,7810,8476,9959,9143
+human_services,Human Services,3153,3283,3640,3740,4001,4228,4456,5407,6547,7278
+teacher_pensions,Teachers' Retirement System,3851,4096,4210,4592,4946,5278,5838,6001,6109,6318
+higher_education,Higher Education Agencies,2039,3359,3141,3226,3578,3747,4174,4169,4432,4571
+central_management,Central Management Services,28,182,1960,2101,2082,2078,2852,1906,2094,2391
+state_employee_pensions,State Employees Retirement System,1367,1309,1319,1395,1638,1705,1721,1698,1775,2021
+corrections,Corrections,888,1076,1890,1519,1490,1502,1523,1725,1837,1893
+aging,Aging,646,590,893,919,984,1055,1132,1289,1437,1627
+child_family_services,Children and Family Services,619,684,746,780,839,999,1122,1289,1393,1411
+other_agencies,All Other Agencies,1574,1662,1808,2106,2193,2364,3012,4980,3500,3700
+prior_year_adjustments,Prior Year Adjustments,-12,-3,-28,-26,-17,-50,-38,-55,-52,-69
+transfers_out,Transfers Out,4576,4636,3610,3906,2596,5200,5417,4196,2295,2759
+total_expenditures,Total Expenditures,31326,34057,38991,40267,39959,44527,48293,50837,51675,53850
