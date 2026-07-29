@@ -1,0 +1,4 @@
+parameter,meaning,selected_value
+p,Autoregressive terms,0
+d,Differencing order,1
+q,Moving average terms,1
