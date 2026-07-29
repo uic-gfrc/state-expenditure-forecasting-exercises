@@ -1,0 +1,841 @@
+date,fiscal_year,month,series,label,expenditure
+2016-01-01,2016,1,aging,Aging,50.1
+2016-01-01,2016,1,corrections,Corrections,147.9
+2016-01-01,2016,1,education,Education,691.4
+2016-01-01,2016,1,healthcare,Healthcare,529.9
+2016-01-01,2016,1,higher_ed,Higher Education,169.3
+2016-01-01,2016,1,human_services,Human Services,433.4
+2016-01-01,2016,1,total_expenditures,Total Expenditures,2253.6
+2016-02-01,2016,2,aging,Aging,42.6
+2016-02-01,2016,2,corrections,Corrections,150.5
+2016-02-01,2016,2,education,Education,690.4
+2016-02-01,2016,2,healthcare,Healthcare,462.2
+2016-02-01,2016,2,higher_ed,Higher Education,175.4
+2016-02-01,2016,2,human_services,Human Services,412.8
+2016-02-01,2016,2,total_expenditures,Total Expenditures,2159.3
+2016-03-01,2016,3,aging,Aging,67.2
+2016-03-01,2016,3,corrections,Corrections,154
+2016-03-01,2016,3,education,Education,738.3
+2016-03-01,2016,3,healthcare,Healthcare,483.6
+2016-03-01,2016,3,higher_ed,Higher Education,181
+2016-03-01,2016,3,human_services,Human Services,436.7
+2016-03-01,2016,3,total_expenditures,Total Expenditures,2295.1
+2016-04-01,2016,4,aging,Aging,66.6
+2016-04-01,2016,4,corrections,Corrections,160
+2016-04-01,2016,4,education,Education,729.5
+2016-04-01,2016,4,healthcare,Healthcare,504.4
+2016-04-01,2016,4,higher_ed,Higher Education,174
+2016-04-01,2016,4,human_services,Human Services,449
+2016-04-01,2016,4,total_expenditures,Total Expenditures,2268.4
+2016-05-01,2016,5,aging,Aging,64.2
+2016-05-01,2016,5,corrections,Corrections,139.6
+2016-05-01,2016,5,education,Education,713.9
+2016-05-01,2016,5,healthcare,Healthcare,559.6
+2016-05-01,2016,5,higher_ed,Higher Education,203
+2016-05-01,2016,5,human_services,Human Services,431.9
+2016-05-01,2016,5,total_expenditures,Total Expenditures,2300.4
+2016-06-01,2016,6,aging,Aging,55.4
+2016-06-01,2016,6,corrections,Corrections,158
+2016-06-01,2016,6,education,Education,716.3
+2016-06-01,2016,6,healthcare,Healthcare,558.9
+2016-06-01,2016,6,higher_ed,Higher Education,202.2
+2016-06-01,2016,6,human_services,Human Services,439
+2016-06-01,2016,6,total_expenditures,Total Expenditures,2157.6
+2016-07-01,2017,7,aging,Aging,89.8
+2016-07-01,2017,7,corrections,Corrections,175.5
+2016-07-01,2017,7,education,Education,748.1
+2016-07-01,2017,7,healthcare,Healthcare,548.9
+2016-07-01,2017,7,higher_ed,Higher Education,221.9
+2016-07-01,2017,7,human_services,Human Services,458.9
+2016-07-01,2017,7,total_expenditures,Total Expenditures,2245.5
+2016-08-01,2017,8,aging,Aging,88.9
+2016-08-01,2017,8,corrections,Corrections,179.3
+2016-08-01,2017,8,education,Education,720.6
+2016-08-01,2017,8,healthcare,Healthcare,571.6
+2016-08-01,2017,8,higher_ed,Higher Education,220.3
+2016-08-01,2017,8,human_services,Human Services,465.5
+2016-08-01,2017,8,total_expenditures,Total Expenditures,2275.7
+2016-09-01,2017,9,aging,Aging,95.1
+2016-09-01,2017,9,corrections,Corrections,185.7
+2016-09-01,2017,9,education,Education,781.1
+2016-09-01,2017,9,healthcare,Healthcare,587.5
+2016-09-01,2017,9,higher_ed,Higher Education,201.2
+2016-09-01,2017,9,human_services,Human Services,453.8
+2016-09-01,2017,9,total_expenditures,Total Expenditures,2316.4
+2016-10-01,2017,10,aging,Aging,67.6
+2016-10-01,2017,10,corrections,Corrections,165.3
+2016-10-01,2017,10,education,Education,714.5
+2016-10-01,2017,10,healthcare,Healthcare,562.7
+2016-10-01,2017,10,higher_ed,Higher Education,168.7
+2016-10-01,2017,10,human_services,Human Services,467.8
+2016-10-01,2017,10,total_expenditures,Total Expenditures,2286.6
+2016-11-01,2017,11,aging,Aging,68.5
+2016-11-01,2017,11,corrections,Corrections,157.3
+2016-11-01,2017,11,education,Education,723.4
+2016-11-01,2017,11,healthcare,Healthcare,566.9
+2016-11-01,2017,11,higher_ed,Higher Education,211.1
+2016-11-01,2017,11,human_services,Human Services,466.6
+2016-11-01,2017,11,total_expenditures,Total Expenditures,2290.8
+2016-12-01,2017,12,aging,Aging,82.3
+2016-12-01,2017,12,corrections,Corrections,194.5
+2016-12-01,2017,12,education,Education,765.8
+2016-12-01,2017,12,healthcare,Healthcare,577.7
+2016-12-01,2017,12,higher_ed,Higher Education,208.8
+2016-12-01,2017,12,human_services,Human Services,455.7
+2016-12-01,2017,12,total_expenditures,Total Expenditures,2356
+2017-01-01,2017,1,aging,Aging,52.4
+2017-01-01,2017,1,corrections,Corrections,145.8
+2017-01-01,2017,1,education,Education,708.4
+2017-01-01,2017,1,healthcare,Healthcare,550.8
+2017-01-01,2017,1,higher_ed,Higher Education,165.5
+2017-01-01,2017,1,human_services,Human Services,476.2
+2017-01-01,2017,1,total_expenditures,Total Expenditures,2349.3
+2017-02-01,2017,2,aging,Aging,52.9
+2017-02-01,2017,2,corrections,Corrections,140.2
+2017-02-01,2017,2,education,Education,718.6
+2017-02-01,2017,2,healthcare,Healthcare,515.1
+2017-02-01,2017,2,higher_ed,Higher Education,189.8
+2017-02-01,2017,2,human_services,Human Services,437.8
+2017-02-01,2017,2,total_expenditures,Total Expenditures,2399.7
+2017-03-01,2017,3,aging,Aging,59.8
+2017-03-01,2017,3,corrections,Corrections,164
+2017-03-01,2017,3,education,Education,780.2
+2017-03-01,2017,3,healthcare,Healthcare,614.5
+2017-03-01,2017,3,higher_ed,Higher Education,187.4
+2017-03-01,2017,3,human_services,Human Services,457
+2017-03-01,2017,3,total_expenditures,Total Expenditures,2368.2
+2017-04-01,2017,4,aging,Aging,79.7
+2017-04-01,2017,4,corrections,Corrections,160.4
+2017-04-01,2017,4,education,Education,728.9
+2017-04-01,2017,4,healthcare,Healthcare,567.1
+2017-04-01,2017,4,higher_ed,Higher Education,189.8
+2017-04-01,2017,4,human_services,Human Services,435.2
+2017-04-01,2017,4,total_expenditures,Total Expenditures,2280.1
+2017-05-01,2017,5,aging,Aging,76.6
+2017-05-01,2017,5,corrections,Corrections,153.2
+2017-05-01,2017,5,education,Education,741.9
+2017-05-01,2017,5,healthcare,Healthcare,585.2
+2017-05-01,2017,5,higher_ed,Higher Education,199.7
+2017-05-01,2017,5,human_services,Human Services,468.1
+2017-05-01,2017,5,total_expenditures,Total Expenditures,2277.5
+2017-06-01,2017,6,aging,Aging,75.1
+2017-06-01,2017,6,corrections,Corrections,166.6
+2017-06-01,2017,6,education,Education,787.9
+2017-06-01,2017,6,healthcare,Healthcare,547.7
+2017-06-01,2017,6,higher_ed,Higher Education,182.2
+2017-06-01,2017,6,human_services,Human Services,451.4
+2017-06-01,2017,6,total_expenditures,Total Expenditures,2435.4
+2017-07-01,2018,7,aging,Aging,95.5
+2017-07-01,2018,7,corrections,Corrections,195.9
+2017-07-01,2018,7,education,Education,769.6
+2017-07-01,2018,7,healthcare,Healthcare,597.8
+2017-07-01,2018,7,higher_ed,Higher Education,217.1
+2017-07-01,2018,7,human_services,Human Services,503.8
+2017-07-01,2018,7,total_expenditures,Total Expenditures,2374.4
+2017-08-01,2018,8,aging,Aging,103.4
+2017-08-01,2018,8,corrections,Corrections,192.1
+2017-08-01,2018,8,education,Education,767.2
+2017-08-01,2018,8,healthcare,Healthcare,625.6
+2017-08-01,2018,8,higher_ed,Higher Education,212.4
+2017-08-01,2018,8,human_services,Human Services,502.9
+2017-08-01,2018,8,total_expenditures,Total Expenditures,2424.4
+2017-09-01,2018,9,aging,Aging,98.9
+2017-09-01,2018,9,corrections,Corrections,192.7
+2017-09-01,2018,9,education,Education,790.2
+2017-09-01,2018,9,healthcare,Healthcare,615.4
+2017-09-01,2018,9,higher_ed,Higher Education,235.6
+2017-09-01,2018,9,human_services,Human Services,518.4
+2017-09-01,2018,9,total_expenditures,Total Expenditures,2436
+2017-10-01,2018,10,aging,Aging,75.2
+2017-10-01,2018,10,corrections,Corrections,166.7
+2017-10-01,2018,10,education,Education,776.9
+2017-10-01,2018,10,healthcare,Healthcare,596.2
+2017-10-01,2018,10,higher_ed,Higher Education,203.1
+2017-10-01,2018,10,human_services,Human Services,464.9
+2017-10-01,2018,10,total_expenditures,Total Expenditures,2434.7
+2017-11-01,2018,11,aging,Aging,69.5
+2017-11-01,2018,11,corrections,Corrections,172.9
+2017-11-01,2018,11,education,Education,748.1
+2017-11-01,2018,11,healthcare,Healthcare,564.9
+2017-11-01,2018,11,higher_ed,Higher Education,197.8
+2017-11-01,2018,11,human_services,Human Services,447.3
+2017-11-01,2018,11,total_expenditures,Total Expenditures,2383.9
+2017-12-01,2018,12,aging,Aging,99.3
+2017-12-01,2018,12,corrections,Corrections,171.5
+2017-12-01,2018,12,education,Education,778.7
+2017-12-01,2018,12,healthcare,Healthcare,622.6
+2017-12-01,2018,12,higher_ed,Higher Education,229.8
+2017-12-01,2018,12,human_services,Human Services,505.6
+2017-12-01,2018,12,total_expenditures,Total Expenditures,2413
+2018-01-01,2018,1,aging,Aging,59.7
+2018-01-01,2018,1,corrections,Corrections,158.8
+2018-01-01,2018,1,education,Education,748.9
+2018-01-01,2018,1,healthcare,Healthcare,570.8
+2018-01-01,2018,1,higher_ed,Higher Education,184
+2018-01-01,2018,1,human_services,Human Services,475.8
+2018-01-01,2018,1,total_expenditures,Total Expenditures,2431.1
+2018-02-01,2018,2,aging,Aging,69.5
+2018-02-01,2018,2,corrections,Corrections,142.9
+2018-02-01,2018,2,education,Education,730.7
+2018-02-01,2018,2,healthcare,Healthcare,548.7
+2018-02-01,2018,2,higher_ed,Higher Education,183.3
+2018-02-01,2018,2,human_services,Human Services,494.9
+2018-02-01,2018,2,total_expenditures,Total Expenditures,2372.9
+2018-03-01,2018,3,aging,Aging,87.2
+2018-03-01,2018,3,corrections,Corrections,171.6
+2018-03-01,2018,3,education,Education,776.1
+2018-03-01,2018,3,healthcare,Healthcare,620.1
+2018-03-01,2018,3,higher_ed,Higher Education,205.6
+2018-03-01,2018,3,human_services,Human Services,486.1
+2018-03-01,2018,3,total_expenditures,Total Expenditures,2430.5
+2018-04-01,2018,4,aging,Aging,79.3
+2018-04-01,2018,4,corrections,Corrections,175.8
+2018-04-01,2018,4,education,Education,820.7
+2018-04-01,2018,4,healthcare,Healthcare,609.9
+2018-04-01,2018,4,higher_ed,Higher Education,198.8
+2018-04-01,2018,4,human_services,Human Services,501.6
+2018-04-01,2018,4,total_expenditures,Total Expenditures,2420
+2018-05-01,2018,5,aging,Aging,82.7
+2018-05-01,2018,5,corrections,Corrections,172.2
+2018-05-01,2018,5,education,Education,803.3
+2018-05-01,2018,5,healthcare,Healthcare,596.7
+2018-05-01,2018,5,higher_ed,Higher Education,206.7
+2018-05-01,2018,5,human_services,Human Services,503
+2018-05-01,2018,5,total_expenditures,Total Expenditures,2400.6
+2018-06-01,2018,6,aging,Aging,88.6
+2018-06-01,2018,6,corrections,Corrections,158.5
+2018-06-01,2018,6,education,Education,765.8
+2018-06-01,2018,6,healthcare,Healthcare,622.1
+2018-06-01,2018,6,higher_ed,Higher Education,216.3
+2018-06-01,2018,6,human_services,Human Services,486.5
+2018-06-01,2018,6,total_expenditures,Total Expenditures,2478.9
+2018-07-01,2019,7,aging,Aging,102.9
+2018-07-01,2019,7,corrections,Corrections,196.9
+2018-07-01,2019,7,education,Education,820.6
+2018-07-01,2019,7,healthcare,Healthcare,603.3
+2018-07-01,2019,7,higher_ed,Higher Education,234.9
+2018-07-01,2019,7,human_services,Human Services,492.1
+2018-07-01,2019,7,total_expenditures,Total Expenditures,2528.8
+2018-08-01,2019,8,aging,Aging,106.8
+2018-08-01,2019,8,corrections,Corrections,200.1
+2018-08-01,2019,8,education,Education,808.4
+2018-08-01,2019,8,healthcare,Healthcare,693.1
+2018-08-01,2019,8,higher_ed,Higher Education,250.1
+2018-08-01,2019,8,human_services,Human Services,511.6
+2018-08-01,2019,8,total_expenditures,Total Expenditures,2518.4
+2018-09-01,2019,9,aging,Aging,105.2
+2018-09-01,2019,9,corrections,Corrections,206
+2018-09-01,2019,9,education,Education,813.3
+2018-09-01,2019,9,healthcare,Healthcare,598.7
+2018-09-01,2019,9,higher_ed,Higher Education,228.8
+2018-09-01,2019,9,human_services,Human Services,530.6
+2018-09-01,2019,9,total_expenditures,Total Expenditures,2540.4
+2018-10-01,2019,10,aging,Aging,83.7
+2018-10-01,2019,10,corrections,Corrections,177.8
+2018-10-01,2019,10,education,Education,817
+2018-10-01,2019,10,healthcare,Healthcare,636
+2018-10-01,2019,10,higher_ed,Higher Education,207.5
+2018-10-01,2019,10,human_services,Human Services,507.5
+2018-10-01,2019,10,total_expenditures,Total Expenditures,2501
+2018-11-01,2019,11,aging,Aging,83.4
+2018-11-01,2019,11,corrections,Corrections,179.1
+2018-11-01,2019,11,education,Education,813.1
+2018-11-01,2019,11,healthcare,Healthcare,627
+2018-11-01,2019,11,higher_ed,Higher Education,224.9
+2018-11-01,2019,11,human_services,Human Services,479.6
+2018-11-01,2019,11,total_expenditures,Total Expenditures,2505.4
+2018-12-01,2019,12,aging,Aging,103.8
+2018-12-01,2019,12,corrections,Corrections,199.3
+2018-12-01,2019,12,education,Education,839
+2018-12-01,2019,12,healthcare,Healthcare,624.2
+2018-12-01,2019,12,higher_ed,Higher Education,215.3
+2018-12-01,2019,12,human_services,Human Services,522.3
+2018-12-01,2019,12,total_expenditures,Total Expenditures,2452.6
+2019-01-01,2019,1,aging,Aging,68.5
+2019-01-01,2019,1,corrections,Corrections,152.2
+2019-01-01,2019,1,education,Education,797.1
+2019-01-01,2019,1,healthcare,Healthcare,627.7
+2019-01-01,2019,1,higher_ed,Higher Education,181.2
+2019-01-01,2019,1,human_services,Human Services,471
+2019-01-01,2019,1,total_expenditures,Total Expenditures,2581.6
+2019-02-01,2019,2,aging,Aging,61.5
+2019-02-01,2019,2,corrections,Corrections,153.7
+2019-02-01,2019,2,education,Education,768.4
+2019-02-01,2019,2,healthcare,Healthcare,614.6
+2019-02-01,2019,2,higher_ed,Higher Education,202.6
+2019-02-01,2019,2,human_services,Human Services,510.5
+2019-02-01,2019,2,total_expenditures,Total Expenditures,2604.2
+2019-03-01,2019,3,aging,Aging,87.4
+2019-03-01,2019,3,corrections,Corrections,177.2
+2019-03-01,2019,3,education,Education,796.8
+2019-03-01,2019,3,healthcare,Healthcare,678.4
+2019-03-01,2019,3,higher_ed,Higher Education,211
+2019-03-01,2019,3,human_services,Human Services,517.4
+2019-03-01,2019,3,total_expenditures,Total Expenditures,2598.6
+2019-04-01,2019,4,aging,Aging,80.9
+2019-04-01,2019,4,corrections,Corrections,180.7
+2019-04-01,2019,4,education,Education,781.7
+2019-04-01,2019,4,healthcare,Healthcare,623.7
+2019-04-01,2019,4,higher_ed,Higher Education,206.2
+2019-04-01,2019,4,human_services,Human Services,508
+2019-04-01,2019,4,total_expenditures,Total Expenditures,2592.4
+2019-05-01,2019,5,aging,Aging,79.7
+2019-05-01,2019,5,corrections,Corrections,189.9
+2019-05-01,2019,5,education,Education,830.3
+2019-05-01,2019,5,healthcare,Healthcare,680.6
+2019-05-01,2019,5,higher_ed,Higher Education,207.6
+2019-05-01,2019,5,human_services,Human Services,532.4
+2019-05-01,2019,5,total_expenditures,Total Expenditures,2573.6
+2019-06-01,2019,6,aging,Aging,89.9
+2019-06-01,2019,6,corrections,Corrections,172.5
+2019-06-01,2019,6,education,Education,851.6
+2019-06-01,2019,6,healthcare,Healthcare,666.6
+2019-06-01,2019,6,higher_ed,Higher Education,225.7
+2019-06-01,2019,6,human_services,Human Services,505
+2019-06-01,2019,6,total_expenditures,Total Expenditures,2555.8
+2019-07-01,2020,7,aging,Aging,105.5
+2019-07-01,2020,7,corrections,Corrections,198.1
+2019-07-01,2020,7,education,Education,804.9
+2019-07-01,2020,7,healthcare,Healthcare,659.4
+2019-07-01,2020,7,higher_ed,Higher Education,236.8
+2019-07-01,2020,7,human_services,Human Services,572.9
+2019-07-01,2020,7,total_expenditures,Total Expenditures,2622.7
+2019-08-01,2020,8,aging,Aging,113.5
+2019-08-01,2020,8,corrections,Corrections,212
+2019-08-01,2020,8,education,Education,850.2
+2019-08-01,2020,8,healthcare,Healthcare,681.6
+2019-08-01,2020,8,higher_ed,Higher Education,244.2
+2019-08-01,2020,8,human_services,Human Services,536.4
+2019-08-01,2020,8,total_expenditures,Total Expenditures,2590.6
+2019-09-01,2020,9,aging,Aging,108.3
+2019-09-01,2020,9,corrections,Corrections,203.3
+2019-09-01,2020,9,education,Education,863.8
+2019-09-01,2020,9,healthcare,Healthcare,669
+2019-09-01,2020,9,higher_ed,Higher Education,237.6
+2019-09-01,2020,9,human_services,Human Services,517.9
+2019-09-01,2020,9,total_expenditures,Total Expenditures,2668.7
+2019-10-01,2020,10,aging,Aging,95.1
+2019-10-01,2020,10,corrections,Corrections,180.5
+2019-10-01,2020,10,education,Education,823.3
+2019-10-01,2020,10,healthcare,Healthcare,623.2
+2019-10-01,2020,10,higher_ed,Higher Education,225.7
+2019-10-01,2020,10,human_services,Human Services,512.9
+2019-10-01,2020,10,total_expenditures,Total Expenditures,2635.9
+2019-11-01,2020,11,aging,Aging,92.1
+2019-11-01,2020,11,corrections,Corrections,187.7
+2019-11-01,2020,11,education,Education,811
+2019-11-01,2020,11,healthcare,Healthcare,712.4
+2019-11-01,2020,11,higher_ed,Higher Education,215.6
+2019-11-01,2020,11,human_services,Human Services,526.3
+2019-11-01,2020,11,total_expenditures,Total Expenditures,2623.6
+2019-12-01,2020,12,aging,Aging,102
+2019-12-01,2020,12,corrections,Corrections,193.7
+2019-12-01,2020,12,education,Education,824.1
+2019-12-01,2020,12,healthcare,Healthcare,723.1
+2019-12-01,2020,12,higher_ed,Higher Education,242.7
+2019-12-01,2020,12,human_services,Human Services,547.1
+2019-12-01,2020,12,total_expenditures,Total Expenditures,2632.9
+2020-01-01,2020,1,aging,Aging,75.5
+2020-01-01,2020,1,corrections,Corrections,160.5
+2020-01-01,2020,1,education,Education,851.3
+2020-01-01,2020,1,healthcare,Healthcare,661.9
+2020-01-01,2020,1,higher_ed,Higher Education,200.6
+2020-01-01,2020,1,human_services,Human Services,503.8
+2020-01-01,2020,1,total_expenditures,Total Expenditures,2639.6
+2020-02-01,2020,2,aging,Aging,74.1
+2020-02-01,2020,2,corrections,Corrections,164.9
+2020-02-01,2020,2,education,Education,816.7
+2020-02-01,2020,2,healthcare,Healthcare,630.7
+2020-02-01,2020,2,higher_ed,Higher Education,225.6
+2020-02-01,2020,2,human_services,Human Services,514.1
+2020-02-01,2020,2,total_expenditures,Total Expenditures,2671.8
+2020-03-01,2020,3,aging,Aging,84.7
+2020-03-01,2020,3,corrections,Corrections,182.6
+2020-03-01,2020,3,education,Education,872.4
+2020-03-01,2020,3,healthcare,Healthcare,694.5
+2020-03-01,2020,3,higher_ed,Higher Education,229.9
+2020-03-01,2020,3,human_services,Human Services,547.7
+2020-03-01,2020,3,total_expenditures,Total Expenditures,2736.8
+2020-04-01,2020,4,aging,Aging,90
+2020-04-01,2020,4,corrections,Corrections,180.9
+2020-04-01,2020,4,education,Education,829.3
+2020-04-01,2020,4,healthcare,Healthcare,664.7
+2020-04-01,2020,4,higher_ed,Higher Education,208.2
+2020-04-01,2020,4,human_services,Human Services,549.6
+2020-04-01,2020,4,total_expenditures,Total Expenditures,2592.5
+2020-05-01,2020,5,aging,Aging,86.8
+2020-05-01,2020,5,corrections,Corrections,194.1
+2020-05-01,2020,5,education,Education,880.6
+2020-05-01,2020,5,healthcare,Healthcare,702.7
+2020-05-01,2020,5,higher_ed,Higher Education,241.4
+2020-05-01,2020,5,human_services,Human Services,548.8
+2020-05-01,2020,5,total_expenditures,Total Expenditures,2644
+2020-06-01,2020,6,aging,Aging,94.2
+2020-06-01,2020,6,corrections,Corrections,184
+2020-06-01,2020,6,education,Education,864.7
+2020-06-01,2020,6,healthcare,Healthcare,711.9
+2020-06-01,2020,6,higher_ed,Higher Education,227.9
+2020-06-01,2020,6,human_services,Human Services,530.5
+2020-06-01,2020,6,total_expenditures,Total Expenditures,2780.1
+2020-07-01,2021,7,aging,Aging,114.3
+2020-07-01,2021,7,corrections,Corrections,214
+2020-07-01,2021,7,education,Education,879.6
+2020-07-01,2021,7,healthcare,Healthcare,725.2
+2020-07-01,2021,7,higher_ed,Higher Education,256.8
+2020-07-01,2021,7,human_services,Human Services,580.3
+2020-07-01,2021,7,total_expenditures,Total Expenditures,2711
+2020-08-01,2021,8,aging,Aging,116.8
+2020-08-01,2021,8,corrections,Corrections,215.3
+2020-08-01,2021,8,education,Education,910.9
+2020-08-01,2021,8,healthcare,Healthcare,722.7
+2020-08-01,2021,8,higher_ed,Higher Education,269.3
+2020-08-01,2021,8,human_services,Human Services,606.3
+2020-08-01,2021,8,total_expenditures,Total Expenditures,2817.3
+2020-09-01,2021,9,aging,Aging,112.3
+2020-09-01,2021,9,corrections,Corrections,200
+2020-09-01,2021,9,education,Education,875.4
+2020-09-01,2021,9,healthcare,Healthcare,751.1
+2020-09-01,2021,9,higher_ed,Higher Education,260.4
+2020-09-01,2021,9,human_services,Human Services,564.2
+2020-09-01,2021,9,total_expenditures,Total Expenditures,2694.1
+2020-10-01,2021,10,aging,Aging,89.2
+2020-10-01,2021,10,corrections,Corrections,193.4
+2020-10-01,2021,10,education,Education,853.3
+2020-10-01,2021,10,healthcare,Healthcare,729.2
+2020-10-01,2021,10,higher_ed,Higher Education,257.8
+2020-10-01,2021,10,human_services,Human Services,596
+2020-10-01,2021,10,total_expenditures,Total Expenditures,2786.9
+2020-11-01,2021,11,aging,Aging,95.2
+2020-11-01,2021,11,corrections,Corrections,203.3
+2020-11-01,2021,11,education,Education,865
+2020-11-01,2021,11,healthcare,Healthcare,718.1
+2020-11-01,2021,11,higher_ed,Higher Education,227.8
+2020-11-01,2021,11,human_services,Human Services,577.1
+2020-11-01,2021,11,total_expenditures,Total Expenditures,2683.7
+2020-12-01,2021,12,aging,Aging,105
+2020-12-01,2021,12,corrections,Corrections,206.9
+2020-12-01,2021,12,education,Education,880.5
+2020-12-01,2021,12,healthcare,Healthcare,724.3
+2020-12-01,2021,12,higher_ed,Higher Education,252.5
+2020-12-01,2021,12,human_services,Human Services,551.7
+2020-12-01,2021,12,total_expenditures,Total Expenditures,2707.2
+2021-01-01,2021,1,aging,Aging,76.8
+2021-01-01,2021,1,corrections,Corrections,168.5
+2021-01-01,2021,1,education,Education,849.1
+2021-01-01,2021,1,healthcare,Healthcare,717.8
+2021-01-01,2021,1,higher_ed,Higher Education,221.7
+2021-01-01,2021,1,human_services,Human Services,527.1
+2021-01-01,2021,1,total_expenditures,Total Expenditures,2747.3
+2021-02-01,2021,2,aging,Aging,78.8
+2021-02-01,2021,2,corrections,Corrections,185.9
+2021-02-01,2021,2,education,Education,851
+2021-02-01,2021,2,healthcare,Healthcare,704.8
+2021-02-01,2021,2,higher_ed,Higher Education,225.7
+2021-02-01,2021,2,human_services,Human Services,542.3
+2021-02-01,2021,2,total_expenditures,Total Expenditures,2724.9
+2021-03-01,2021,3,aging,Aging,95.5
+2021-03-01,2021,3,corrections,Corrections,196.2
+2021-03-01,2021,3,education,Education,854.9
+2021-03-01,2021,3,healthcare,Healthcare,753.5
+2021-03-01,2021,3,higher_ed,Higher Education,245
+2021-03-01,2021,3,human_services,Human Services,568.6
+2021-03-01,2021,3,total_expenditures,Total Expenditures,2705.8
+2021-04-01,2021,4,aging,Aging,95.5
+2021-04-01,2021,4,corrections,Corrections,202.9
+2021-04-01,2021,4,education,Education,903.2
+2021-04-01,2021,4,healthcare,Healthcare,696.6
+2021-04-01,2021,4,higher_ed,Higher Education,243.1
+2021-04-01,2021,4,human_services,Human Services,552.5
+2021-04-01,2021,4,total_expenditures,Total Expenditures,2715.2
+2021-05-01,2021,5,aging,Aging,88.8
+2021-05-01,2021,5,corrections,Corrections,197.2
+2021-05-01,2021,5,education,Education,861
+2021-05-01,2021,5,healthcare,Healthcare,726.1
+2021-05-01,2021,5,higher_ed,Higher Education,226.1
+2021-05-01,2021,5,human_services,Human Services,560
+2021-05-01,2021,5,total_expenditures,Total Expenditures,2801.9
+2021-06-01,2021,6,aging,Aging,96.6
+2021-06-01,2021,6,corrections,Corrections,201.1
+2021-06-01,2021,6,education,Education,865.8
+2021-06-01,2021,6,healthcare,Healthcare,755.4
+2021-06-01,2021,6,higher_ed,Higher Education,235.3
+2021-06-01,2021,6,human_services,Human Services,582.7
+2021-06-01,2021,6,total_expenditures,Total Expenditures,2734.3
+2021-07-01,2022,7,aging,Aging,114.5
+2021-07-01,2022,7,corrections,Corrections,233.5
+2021-07-01,2022,7,education,Education,890.9
+2021-07-01,2022,7,healthcare,Healthcare,744.2
+2021-07-01,2022,7,higher_ed,Higher Education,266
+2021-07-01,2022,7,human_services,Human Services,608
+2021-07-01,2022,7,total_expenditures,Total Expenditures,2883.9
+2021-08-01,2022,8,aging,Aging,129.8
+2021-08-01,2022,8,corrections,Corrections,227.9
+2021-08-01,2022,8,education,Education,956.9
+2021-08-01,2022,8,healthcare,Healthcare,724.6
+2021-08-01,2022,8,higher_ed,Higher Education,261.3
+2021-08-01,2022,8,human_services,Human Services,589.5
+2021-08-01,2022,8,total_expenditures,Total Expenditures,2908.2
+2021-09-01,2022,9,aging,Aging,119.5
+2021-09-01,2022,9,corrections,Corrections,226.3
+2021-09-01,2022,9,education,Education,932.1
+2021-09-01,2022,9,healthcare,Healthcare,778.2
+2021-09-01,2022,9,higher_ed,Higher Education,270.3
+2021-09-01,2022,9,human_services,Human Services,597.3
+2021-09-01,2022,9,total_expenditures,Total Expenditures,2779.6
+2021-10-01,2022,10,aging,Aging,100.7
+2021-10-01,2022,10,corrections,Corrections,193.6
+2021-10-01,2022,10,education,Education,911
+2021-10-01,2022,10,healthcare,Healthcare,730.9
+2021-10-01,2022,10,higher_ed,Higher Education,235
+2021-10-01,2022,10,human_services,Human Services,565.7
+2021-10-01,2022,10,total_expenditures,Total Expenditures,2733.8
+2021-11-01,2022,11,aging,Aging,103.1
+2021-11-01,2022,11,corrections,Corrections,204.3
+2021-11-01,2022,11,education,Education,849.6
+2021-11-01,2022,11,healthcare,Healthcare,736.4
+2021-11-01,2022,11,higher_ed,Higher Education,253
+2021-11-01,2022,11,human_services,Human Services,534.1
+2021-11-01,2022,11,total_expenditures,Total Expenditures,2718.3
+2021-12-01,2022,12,aging,Aging,116
+2021-12-01,2022,12,corrections,Corrections,212.1
+2021-12-01,2022,12,education,Education,907.1
+2021-12-01,2022,12,healthcare,Healthcare,782.3
+2021-12-01,2022,12,higher_ed,Higher Education,261.9
+2021-12-01,2022,12,human_services,Human Services,591.5
+2021-12-01,2022,12,total_expenditures,Total Expenditures,2905.9
+2022-01-01,2022,1,aging,Aging,90.2
+2022-01-01,2022,1,corrections,Corrections,200.5
+2022-01-01,2022,1,education,Education,915.3
+2022-01-01,2022,1,healthcare,Healthcare,782.1
+2022-01-01,2022,1,higher_ed,Higher Education,233.2
+2022-01-01,2022,1,human_services,Human Services,559.8
+2022-01-01,2022,1,total_expenditures,Total Expenditures,2779.3
+2022-02-01,2022,2,aging,Aging,79.8
+2022-02-01,2022,2,corrections,Corrections,186.5
+2022-02-01,2022,2,education,Education,923.9
+2022-02-01,2022,2,healthcare,Healthcare,739.8
+2022-02-01,2022,2,higher_ed,Higher Education,226.4
+2022-02-01,2022,2,human_services,Human Services,572.7
+2022-02-01,2022,2,total_expenditures,Total Expenditures,2903.9
+2022-03-01,2022,3,aging,Aging,104.7
+2022-03-01,2022,3,corrections,Corrections,196.1
+2022-03-01,2022,3,education,Education,859.7
+2022-03-01,2022,3,healthcare,Healthcare,780.8
+2022-03-01,2022,3,higher_ed,Higher Education,240.7
+2022-03-01,2022,3,human_services,Human Services,575.4
+2022-03-01,2022,3,total_expenditures,Total Expenditures,2863.4
+2022-04-01,2022,4,aging,Aging,98.1
+2022-04-01,2022,4,corrections,Corrections,216.3
+2022-04-01,2022,4,education,Education,854.4
+2022-04-01,2022,4,healthcare,Healthcare,716.5
+2022-04-01,2022,4,higher_ed,Higher Education,263
+2022-04-01,2022,4,human_services,Human Services,606.7
+2022-04-01,2022,4,total_expenditures,Total Expenditures,2810.4
+2022-05-01,2022,5,aging,Aging,114.1
+2022-05-01,2022,5,corrections,Corrections,200.2
+2022-05-01,2022,5,education,Education,881.4
+2022-05-01,2022,5,healthcare,Healthcare,768.4
+2022-05-01,2022,5,higher_ed,Higher Education,240.7
+2022-05-01,2022,5,human_services,Human Services,571.2
+2022-05-01,2022,5,total_expenditures,Total Expenditures,2844.8
+2022-06-01,2022,6,aging,Aging,107.4
+2022-06-01,2022,6,corrections,Corrections,191.9
+2022-06-01,2022,6,education,Education,884.1
+2022-06-01,2022,6,healthcare,Healthcare,731.3
+2022-06-01,2022,6,higher_ed,Higher Education,242.2
+2022-06-01,2022,6,human_services,Human Services,634.2
+2022-06-01,2022,6,total_expenditures,Total Expenditures,2904.6
+2022-07-01,2023,7,aging,Aging,127.8
+2022-07-01,2023,7,corrections,Corrections,221.9
+2022-07-01,2023,7,education,Education,964.6
+2022-07-01,2023,7,healthcare,Healthcare,760.3
+2022-07-01,2023,7,higher_ed,Higher Education,269.2
+2022-07-01,2023,7,human_services,Human Services,606.2
+2022-07-01,2023,7,total_expenditures,Total Expenditures,3046.9
+2022-08-01,2023,8,aging,Aging,133.9
+2022-08-01,2023,8,corrections,Corrections,231.3
+2022-08-01,2023,8,education,Education,960.4
+2022-08-01,2023,8,healthcare,Healthcare,832
+2022-08-01,2023,8,higher_ed,Higher Education,295.2
+2022-08-01,2023,8,human_services,Human Services,639.8
+2022-08-01,2023,8,total_expenditures,Total Expenditures,2965.5
+2022-09-01,2023,9,aging,Aging,124.7
+2022-09-01,2023,9,corrections,Corrections,228.2
+2022-09-01,2023,9,education,Education,996.2
+2022-09-01,2023,9,healthcare,Healthcare,819.6
+2022-09-01,2023,9,higher_ed,Higher Education,276.9
+2022-09-01,2023,9,human_services,Human Services,671.2
+2022-09-01,2023,9,total_expenditures,Total Expenditures,2865.7
+2022-10-01,2023,10,aging,Aging,113.5
+2022-10-01,2023,10,corrections,Corrections,211.1
+2022-10-01,2023,10,education,Education,934.5
+2022-10-01,2023,10,healthcare,Healthcare,795.1
+2022-10-01,2023,10,higher_ed,Higher Education,264.9
+2022-10-01,2023,10,human_services,Human Services,596.4
+2022-10-01,2023,10,total_expenditures,Total Expenditures,2910.4
+2022-11-01,2023,11,aging,Aging,100.7
+2022-11-01,2023,11,corrections,Corrections,206.3
+2022-11-01,2023,11,education,Education,923.8
+2022-11-01,2023,11,healthcare,Healthcare,773.8
+2022-11-01,2023,11,higher_ed,Higher Education,244.4
+2022-11-01,2023,11,human_services,Human Services,605.2
+2022-11-01,2023,11,total_expenditures,Total Expenditures,2881.2
+2022-12-01,2023,12,aging,Aging,114.2
+2022-12-01,2023,12,corrections,Corrections,208.9
+2022-12-01,2023,12,education,Education,990.5
+2022-12-01,2023,12,healthcare,Healthcare,775.6
+2022-12-01,2023,12,higher_ed,Higher Education,266.4
+2022-12-01,2023,12,human_services,Human Services,616.2
+2022-12-01,2023,12,total_expenditures,Total Expenditures,2912.1
+2023-01-01,2023,1,aging,Aging,89.2
+2023-01-01,2023,1,corrections,Corrections,189.2
+2023-01-01,2023,1,education,Education,939.4
+2023-01-01,2023,1,healthcare,Healthcare,783.5
+2023-01-01,2023,1,higher_ed,Higher Education,236.9
+2023-01-01,2023,1,human_services,Human Services,601
+2023-01-01,2023,1,total_expenditures,Total Expenditures,2988
+2023-02-01,2023,2,aging,Aging,94.2
+2023-02-01,2023,2,corrections,Corrections,206.3
+2023-02-01,2023,2,education,Education,940.4
+2023-02-01,2023,2,healthcare,Healthcare,752.4
+2023-02-01,2023,2,higher_ed,Higher Education,246
+2023-02-01,2023,2,human_services,Human Services,612.3
+2023-02-01,2023,2,total_expenditures,Total Expenditures,2932
+2023-03-01,2023,3,aging,Aging,108.4
+2023-03-01,2023,3,corrections,Corrections,207.4
+2023-03-01,2023,3,education,Education,970.4
+2023-03-01,2023,3,healthcare,Healthcare,851.6
+2023-03-01,2023,3,higher_ed,Higher Education,255.3
+2023-03-01,2023,3,human_services,Human Services,591
+2023-03-01,2023,3,total_expenditures,Total Expenditures,3042.3
+2023-04-01,2023,4,aging,Aging,105.2
+2023-04-01,2023,4,corrections,Corrections,206.9
+2023-04-01,2023,4,education,Education,941
+2023-04-01,2023,4,healthcare,Healthcare,803.3
+2023-04-01,2023,4,higher_ed,Higher Education,266.2
+2023-04-01,2023,4,human_services,Human Services,603.2
+2023-04-01,2023,4,total_expenditures,Total Expenditures,3005.4
+2023-05-01,2023,5,aging,Aging,115.4
+2023-05-01,2023,5,corrections,Corrections,211.3
+2023-05-01,2023,5,education,Education,958.3
+2023-05-01,2023,5,healthcare,Healthcare,811.8
+2023-05-01,2023,5,higher_ed,Higher Education,261.2
+2023-05-01,2023,5,human_services,Human Services,598
+2023-05-01,2023,5,total_expenditures,Total Expenditures,3003.8
+2023-06-01,2023,6,aging,Aging,122.1
+2023-06-01,2023,6,corrections,Corrections,226.2
+2023-06-01,2023,6,education,Education,979.1
+2023-06-01,2023,6,healthcare,Healthcare,773.3
+2023-06-01,2023,6,higher_ed,Higher Education,262.8
+2023-06-01,2023,6,human_services,Human Services,636.7
+2023-06-01,2023,6,total_expenditures,Total Expenditures,3101
+2023-07-01,2024,7,aging,Aging,125.7
+2023-07-01,2024,7,corrections,Corrections,231.7
+2023-07-01,2024,7,education,Education,931
+2023-07-01,2024,7,healthcare,Healthcare,847.6
+2023-07-01,2024,7,higher_ed,Higher Education,308.1
+2023-07-01,2024,7,human_services,Human Services,662.6
+2023-07-01,2024,7,total_expenditures,Total Expenditures,3014.7
+2023-08-01,2024,8,aging,Aging,143.4
+2023-08-01,2024,8,corrections,Corrections,245.6
+2023-08-01,2024,8,education,Education,983
+2023-08-01,2024,8,healthcare,Healthcare,864.4
+2023-08-01,2024,8,higher_ed,Higher Education,281
+2023-08-01,2024,8,human_services,Human Services,643.2
+2023-08-01,2024,8,total_expenditures,Total Expenditures,3071.1
+2023-09-01,2024,9,aging,Aging,134.1
+2023-09-01,2024,9,corrections,Corrections,235.2
+2023-09-01,2024,9,education,Education,963.6
+2023-09-01,2024,9,healthcare,Healthcare,849.5
+2023-09-01,2024,9,higher_ed,Higher Education,298.5
+2023-09-01,2024,9,human_services,Human Services,639.2
+2023-09-01,2024,9,total_expenditures,Total Expenditures,3249.9
+2023-10-01,2024,10,aging,Aging,116.9
+2023-10-01,2024,10,corrections,Corrections,213.2
+2023-10-01,2024,10,education,Education,940.7
+2023-10-01,2024,10,healthcare,Healthcare,822
+2023-10-01,2024,10,higher_ed,Higher Education,275.6
+2023-10-01,2024,10,human_services,Human Services,604
+2023-10-01,2024,10,total_expenditures,Total Expenditures,3026.4
+2023-11-01,2024,11,aging,Aging,103.4
+2023-11-01,2024,11,corrections,Corrections,213.7
+2023-11-01,2024,11,education,Education,946.6
+2023-11-01,2024,11,healthcare,Healthcare,858.4
+2023-11-01,2024,11,higher_ed,Higher Education,282.2
+2023-11-01,2024,11,human_services,Human Services,652.7
+2023-11-01,2024,11,total_expenditures,Total Expenditures,3153.3
+2023-12-01,2024,12,aging,Aging,126.7
+2023-12-01,2024,12,corrections,Corrections,238.4
+2023-12-01,2024,12,education,Education,992.8
+2023-12-01,2024,12,healthcare,Healthcare,858
+2023-12-01,2024,12,higher_ed,Higher Education,284.6
+2023-12-01,2024,12,human_services,Human Services,641.2
+2023-12-01,2024,12,total_expenditures,Total Expenditures,2991.8
+2024-01-01,2024,1,aging,Aging,90.7
+2024-01-01,2024,1,corrections,Corrections,204.8
+2024-01-01,2024,1,education,Education,953.2
+2024-01-01,2024,1,healthcare,Healthcare,826.4
+2024-01-01,2024,1,higher_ed,Higher Education,251.8
+2024-01-01,2024,1,human_services,Human Services,639.7
+2024-01-01,2024,1,total_expenditures,Total Expenditures,3070.1
+2024-02-01,2024,2,aging,Aging,93.5
+2024-02-01,2024,2,corrections,Corrections,209.2
+2024-02-01,2024,2,education,Education,928.4
+2024-02-01,2024,2,healthcare,Healthcare,839
+2024-02-01,2024,2,higher_ed,Higher Education,251.7
+2024-02-01,2024,2,human_services,Human Services,667.5
+2024-02-01,2024,2,total_expenditures,Total Expenditures,3033.9
+2024-03-01,2024,3,aging,Aging,109.1
+2024-03-01,2024,3,corrections,Corrections,227.8
+2024-03-01,2024,3,education,Education,991.9
+2024-03-01,2024,3,healthcare,Healthcare,844.3
+2024-03-01,2024,3,higher_ed,Higher Education,276.3
+2024-03-01,2024,3,human_services,Human Services,674.7
+2024-03-01,2024,3,total_expenditures,Total Expenditures,3007.3
+2024-04-01,2024,4,aging,Aging,116.8
+2024-04-01,2024,4,corrections,Corrections,237.3
+2024-04-01,2024,4,education,Education,992.2
+2024-04-01,2024,4,healthcare,Healthcare,909.2
+2024-04-01,2024,4,higher_ed,Higher Education,276.1
+2024-04-01,2024,4,human_services,Human Services,633.5
+2024-04-01,2024,4,total_expenditures,Total Expenditures,3066
+2024-05-01,2024,5,aging,Aging,121.6
+2024-05-01,2024,5,corrections,Corrections,221.3
+2024-05-01,2024,5,education,Education,994.6
+2024-05-01,2024,5,healthcare,Healthcare,850.9
+2024-05-01,2024,5,higher_ed,Higher Education,268.1
+2024-05-01,2024,5,human_services,Human Services,675
+2024-05-01,2024,5,total_expenditures,Total Expenditures,3236.9
+2024-06-01,2024,6,aging,Aging,113.5
+2024-06-01,2024,6,corrections,Corrections,201.1
+2024-06-01,2024,6,education,Education,994.6
+2024-06-01,2024,6,healthcare,Healthcare,870
+2024-06-01,2024,6,higher_ed,Higher Education,280.7
+2024-06-01,2024,6,human_services,Human Services,641
+2024-06-01,2024,6,total_expenditures,Total Expenditures,3107.4
+2024-07-01,2025,7,aging,Aging,140.4
+2024-07-01,2025,7,corrections,Corrections,242.8
+2024-07-01,2025,7,education,Education,1043.8
+2024-07-01,2025,7,healthcare,Healthcare,894.8
+2024-07-01,2025,7,higher_ed,Higher Education,303.6
+2024-07-01,2025,7,human_services,Human Services,687.4
+2024-07-01,2025,7,total_expenditures,Total Expenditures,3120.9
+2024-08-01,2025,8,aging,Aging,136.4
+2024-08-01,2025,8,corrections,Corrections,241.6
+2024-08-01,2025,8,education,Education,999.4
+2024-08-01,2025,8,healthcare,Healthcare,893.6
+2024-08-01,2025,8,higher_ed,Higher Education,305.6
+2024-08-01,2025,8,human_services,Human Services,687.1
+2024-08-01,2025,8,total_expenditures,Total Expenditures,3218.9
+2024-09-01,2025,9,aging,Aging,147.5
+2024-09-01,2025,9,corrections,Corrections,246.1
+2024-09-01,2025,9,education,Education,1004
+2024-09-01,2025,9,healthcare,Healthcare,904.2
+2024-09-01,2025,9,higher_ed,Higher Education,327.6
+2024-09-01,2025,9,human_services,Human Services,696.9
+2024-09-01,2025,9,total_expenditures,Total Expenditures,3131.8
+2024-10-01,2025,10,aging,Aging,120.8
+2024-10-01,2025,10,corrections,Corrections,233.4
+2024-10-01,2025,10,education,Education,1015.2
+2024-10-01,2025,10,healthcare,Healthcare,866.9
+2024-10-01,2025,10,higher_ed,Higher Education,278.2
+2024-10-01,2025,10,human_services,Human Services,663.4
+2024-10-01,2025,10,total_expenditures,Total Expenditures,3167
+2024-11-01,2025,11,aging,Aging,110.7
+2024-11-01,2025,11,corrections,Corrections,220.3
+2024-11-01,2025,11,education,Education,1014.6
+2024-11-01,2025,11,healthcare,Healthcare,819.8
+2024-11-01,2025,11,higher_ed,Higher Education,271.2
+2024-11-01,2025,11,human_services,Human Services,671.2
+2024-11-01,2025,11,total_expenditures,Total Expenditures,3178.4
+2024-12-01,2025,12,aging,Aging,141.4
+2024-12-01,2025,12,corrections,Corrections,234.2
+2024-12-01,2025,12,education,Education,1045.1
+2024-12-01,2025,12,healthcare,Healthcare,863
+2024-12-01,2025,12,higher_ed,Higher Education,296.4
+2024-12-01,2025,12,human_services,Human Services,695.2
+2024-12-01,2025,12,total_expenditures,Total Expenditures,3164
+2025-01-01,2025,1,aging,Aging,95.7
+2025-01-01,2025,1,corrections,Corrections,212.2
+2025-01-01,2025,1,education,Education,986.9
+2025-01-01,2025,1,healthcare,Healthcare,902.3
+2025-01-01,2025,1,higher_ed,Higher Education,257.4
+2025-01-01,2025,1,human_services,Human Services,609.4
+2025-01-01,2025,1,total_expenditures,Total Expenditures,3142.3
+2025-02-01,2025,2,aging,Aging,96.7
+2025-02-01,2025,2,corrections,Corrections,214.6
+2025-02-01,2025,2,education,Education,1005.1
+2025-02-01,2025,2,healthcare,Healthcare,896.3
+2025-02-01,2025,2,higher_ed,Higher Education,253.3
+2025-02-01,2025,2,human_services,Human Services,648.5
+2025-02-01,2025,2,total_expenditures,Total Expenditures,3263.6
+2025-03-01,2025,3,aging,Aging,113.1
+2025-03-01,2025,3,corrections,Corrections,225.8
+2025-03-01,2025,3,education,Education,1038.9
+2025-03-01,2025,3,healthcare,Healthcare,872.8
+2025-03-01,2025,3,higher_ed,Higher Education,276.1
+2025-03-01,2025,3,human_services,Human Services,681.8
+2025-03-01,2025,3,total_expenditures,Total Expenditures,3190.2
+2025-04-01,2025,4,aging,Aging,115
+2025-04-01,2025,4,corrections,Corrections,231.7
+2025-04-01,2025,4,education,Education,996
+2025-04-01,2025,4,healthcare,Healthcare,823.1
+2025-04-01,2025,4,higher_ed,Higher Education,281.9
+2025-04-01,2025,4,human_services,Human Services,680.5
+2025-04-01,2025,4,total_expenditures,Total Expenditures,3327.6
+2025-05-01,2025,5,aging,Aging,119.8
+2025-05-01,2025,5,corrections,Corrections,233.1
+2025-05-01,2025,5,education,Education,1060.5
+2025-05-01,2025,5,healthcare,Healthcare,864.9
+2025-05-01,2025,5,higher_ed,Higher Education,291.4
+2025-05-01,2025,5,human_services,Human Services,681.2
+2025-05-01,2025,5,total_expenditures,Total Expenditures,3205.8
+2025-06-01,2025,6,aging,Aging,124.7
+2025-06-01,2025,6,corrections,Corrections,232.7
+2025-06-01,2025,6,education,Education,1000.9
+2025-06-01,2025,6,healthcare,Healthcare,851.7
+2025-06-01,2025,6,higher_ed,Higher Education,286.2
+2025-06-01,2025,6,human_services,Human Services,715.4
+2025-06-01,2025,6,total_expenditures,Total Expenditures,3212.4
+2025-07-01,2026,7,aging,Aging,143.9
+2025-07-01,2026,7,corrections,Corrections,250.9
+2025-07-01,2026,7,education,Education,1006.1
+2025-07-01,2026,7,healthcare,Healthcare,876.1
+2025-07-01,2026,7,higher_ed,Higher Education,300.3
+2025-07-01,2026,7,human_services,Human Services,705.4
+2025-07-01,2026,7,total_expenditures,Total Expenditures,3226.3
+2025-08-01,2026,8,aging,Aging,147
+2025-08-01,2026,8,corrections,Corrections,262.1
+2025-08-01,2026,8,education,Education,1046.7
+2025-08-01,2026,8,healthcare,Healthcare,937.1
+2025-08-01,2026,8,higher_ed,Higher Education,307.8
+2025-08-01,2026,8,human_services,Human Services,712
+2025-08-01,2026,8,total_expenditures,Total Expenditures,3110.3
+2025-09-01,2026,9,aging,Aging,147.1
+2025-09-01,2026,9,corrections,Corrections,238.8
+2025-09-01,2026,9,education,Education,1057.7
+2025-09-01,2026,9,healthcare,Healthcare,922.1
+2025-09-01,2026,9,higher_ed,Higher Education,295
+2025-09-01,2026,9,human_services,Human Services,709.9
+2025-09-01,2026,9,total_expenditures,Total Expenditures,3173.5
+2025-10-01,2026,10,aging,Aging,129.9
+2025-10-01,2026,10,corrections,Corrections,237.5
+2025-10-01,2026,10,education,Education,1013.3
+2025-10-01,2026,10,healthcare,Healthcare,929.2
+2025-10-01,2026,10,higher_ed,Higher Education,284.2
+2025-10-01,2026,10,human_services,Human Services,736.6
+2025-10-01,2026,10,total_expenditures,Total Expenditures,3256.7
+2025-11-01,2026,11,aging,Aging,135.9
+2025-11-01,2026,11,corrections,Corrections,236.5
+2025-11-01,2026,11,education,Education,1007.8
+2025-11-01,2026,11,healthcare,Healthcare,871.6
+2025-11-01,2026,11,higher_ed,Higher Education,274
+2025-11-01,2026,11,human_services,Human Services,679.4
+2025-11-01,2026,11,total_expenditures,Total Expenditures,3230.3
+2025-12-01,2026,12,aging,Aging,134.7
+2025-12-01,2026,12,corrections,Corrections,265.4
+2025-12-01,2026,12,education,Education,1034.2
+2025-12-01,2026,12,healthcare,Healthcare,896.9
+2025-12-01,2026,12,higher_ed,Higher Education,289.1
+2025-12-01,2026,12,human_services,Human Services,730.9
+2025-12-01,2026,12,total_expenditures,Total Expenditures,3380.9
